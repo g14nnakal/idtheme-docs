@@ -1,0 +1,19 @@
+{
+  "devDependencies": {
+    "@iconify/vue": "^5.0.0",
+    "@miletorix/vitepress-youtube-embed": "^1.0.3",
+    "eslint": "^9.39.2",
+    "eslint-plugin-vue": "^10.7.0",
+    "globals": "^17.2.0",
+    "prettier": "3.8.1",
+    "typescript-eslint": "^8.54.0",
+    "vitepress": "^2.0.0-alpha.15"
+  },
+  "scripts": {
+    "format": "prettier --write .",
+    "lint": "eslint . --ext .js,.jsx,.cjs,.mjs,.ts,.tsx,.cts,.mts,.vue --fix",
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  }
+}
