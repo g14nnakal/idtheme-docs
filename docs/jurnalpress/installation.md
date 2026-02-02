@@ -8,6 +8,12 @@ outline: deep
 
 Panduan ini akan menjelaskan cara menginstal theme Jurnalpress WordPress dari Idtheme.
 
+## Video Tutorial
+
+Sebelum anda melangkah install jurnalpress, sebaiknya anda lihat video berikut sampai selesai.
+
+<YouTubeEmbed video-id="O9CZVzxXLm4" />
+
 ## Langkah Instalasi
 
 1. Download terlebih dahulu theme **jurnalpress-v.x.x.xpacked.zip** dari member area x.x.x adalah versi theme.
