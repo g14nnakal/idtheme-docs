@@ -15,6 +15,7 @@
     "docs:dev": "vitepress dev",
     "docs:build": "vitepress build",
     "docs:preview": "vitepress preview",
-    "docs:deploy": "git add . && git commit -m 'Update' && git push"
+    "docs:deploy": "git add docs && git commit -m \"docs: update\" && git push origin main",
+    "docs:pushall": "git add . && git commit -m \"docs: update\" && git push origin main"
   }
 }

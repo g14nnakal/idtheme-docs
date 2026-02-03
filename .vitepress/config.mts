@@ -22,25 +22,12 @@ export default defineConfig({
     logo: '/logo-idt.png',
     siteTitle: false,
     search: {
-      provider: 'local',
-
+      provider: 'algolia',
       options: {
-        // 🔥 paling penting
-        detailedView: false,
-
-        // kurangi index heading
-        miniSearch: {
-          searchOptions: {
-            boost: {
-              title: 4,
-              text: 1,
-              headings: 0.5,
-            },
-            fuzzy: 0.2,
-            prefix: true,
-          },
-        },
-      },
+        appId: '4JTA5HUTK4',
+        apiKey: 'df7287738e0d2f8832f1ce375a348593',
+        indexName: 'idtheme-docs'
+      }
     },
     lastUpdated: {
       text: 'Updated at',
