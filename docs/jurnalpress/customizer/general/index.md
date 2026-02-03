@@ -6,6 +6,14 @@ outline: deep
 
 # General (Customizer) – Theme JurnalPress
 
+## Video Tutorial
+
+Berikut adalah video tutorial untuk panel General pada Customizer tema JurnalPress:
+
+<YouTubeEmbed video-id="FSPKpr2rax4" />
+
+Untuk detail tutorial teks bisa anda lihat dibawah.
+
 ## Deskripsi
 Panel **General** berisi pengaturan global, form, button, typography, dan lainnya.
 
