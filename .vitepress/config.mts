@@ -24,9 +24,13 @@ export default defineConfig({
     search: {
       provider: 'algolia',
       options: {
-        appId: '4JTA5HUTK4',
-        apiKey: 'df7287738e0d2f8832f1ce375a348593',
-        indexName: 'idtheme-docs'
+        appId: 'DLSFXF6SZ5',
+        apiKey: '253f35ee9405bcb50f8e6c21b455af0f',
+        indexName: 'idtheme-docs',
+        searchParameters: {
+          hitsPerPage: 10
+        },
+        insights: false,
       }
     },
     lastUpdated: {
