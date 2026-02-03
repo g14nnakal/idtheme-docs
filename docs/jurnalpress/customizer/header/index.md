@@ -6,6 +6,14 @@ outline: deep
 
 # Header Layout (Customizer) – Theme JurnalPress
 
+## Video Tutorial
+
+Berikut adalah video tutorial untuk panel Header Layout pada Customizer tema JurnalPress:
+
+<YouTubeEmbed video-id="XPj6yObVpZA" />
+
+Untuk detail tutorial teks bisa anda lihat dibawah.
+
 ## Deskripsi
 Panel **Header Layout** berisi pengaturan global, text marquee, search, dark mode, site identity, logo, mobile menu, dan lainnya.
 
