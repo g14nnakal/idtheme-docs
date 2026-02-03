@@ -6,6 +6,14 @@ outline: deep
 
 # Other (Customizer) – Theme JurnalPress
 
+## Video Tutorial
+
+Berikut adalah video tutorial untuk panel Other pada Customizer tema JurnalPress:
+
+<YouTubeEmbed video-id="SB3tbdH_pEY" />
+
+Untuk detail tutorial teks bisa anda lihat dibawah.
+
 ## Lokasi Pengaturan
 ```
 Appearance → Customize → Other

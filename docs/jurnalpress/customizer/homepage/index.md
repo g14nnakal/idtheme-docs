@@ -6,6 +6,14 @@ outline: deep
 
 # Homepage (Customizer) – Theme JurnalPress
 
+## Video Tutorial
+
+Berikut adalah video tutorial untuk panel Homepage pada Customizer tema JurnalPress:
+
+<YouTubeEmbed video-id="_QnaAFclaKo" />
+
+Untuk detail tutorial teks bisa anda lihat dibawah.
+
 ## Deskripsi
 Panel **Homepage** mengatur komposisi modul yang tampil di halaman depan (front page) tema **JurnalPress**. Panel ini terdiri dari:
 - Modul di area atas: **Home Top Module**

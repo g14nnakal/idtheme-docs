@@ -6,6 +6,14 @@ outline: deep
 
 # Pages (Customizer) – Theme JurnalPress
 
+## Video Tutorial
+
+Berikut adalah video tutorial untuk panel Pages pada Customizer tema JurnalPress:
+
+<YouTubeEmbed video-id="I2A2vw44fxI" />
+
+Untuk detail tutorial teks bisa anda lihat dibawah.
+
 ## Deskripsi
 Panel **Pages** berisi pengaturan tampilan arsip, halaman single page, dan sidebar default.
 

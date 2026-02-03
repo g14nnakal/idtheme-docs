@@ -6,6 +6,14 @@ outline: deep
 
 # Footer Layout (Customizer) – Theme JurnalPress
 
+## Video Tutorial
+
+Berikut adalah video tutorial untuk panel Footer Layout pada Customizer tema JurnalPress:
+
+<YouTubeEmbed video-id="emySDr51znY" />
+
+Untuk detail tutorial teks bisa anda lihat dibawah.
+
 ## Deskripsi
 Panel **Footer Layout** berisi pengaturan Global, social, copyright, footer menu, dan lainnya.
 

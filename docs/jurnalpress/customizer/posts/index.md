@@ -6,6 +6,14 @@ outline: deep
 
 # Single Posts (Customizer) – Theme JurnalPress
 
+## Video Tutorial
+
+Berikut adalah video tutorial untuk panel Single Posts pada Customizer tema JurnalPress:
+
+<YouTubeEmbed video-id="pS1KHNi3GZU" />
+
+Untuk detail tutorial teks bisa anda lihat dibawah.
+
 ## Deskripsi
 Panel **Posts** berisi pengaturan global untuk halaman Single Post dan pengaturan modul yang muncul setelah konten (After Content Element). Tersedia juga pengaturan **Share & Google News**.
 

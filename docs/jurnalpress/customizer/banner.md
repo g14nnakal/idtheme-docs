@@ -8,6 +8,14 @@ outline: deep
 
 Panel **Banner** pada WordPress Customizer digunakan untuk mengelola berbagai jenis banner atau iklan yang ditampilkan di posisi strategis pada website. Panel ini mendukung banner berbasis **Image** maupun **HTML/Ads Code**, kompatibel dengan **AMP**, dan fleksibel untuk kebutuhan monetisasi modern.
 
+## Video Tutorial
+
+Berikut adalah video tutorial untuk panel Banner pada Customizer tema JurnalPress:
+
+<YouTubeEmbed video-id="-jlAOm30ki0" />
+
+Untuk detail tutorial teks bisa anda lihat dibawah.
+
 ## Lokasi Pengaturan
 ```
 Appearance → Customize → Banner

@@ -8,6 +8,14 @@ outline: deep
 
 Theme ini mendukung fitur Widget WordPress standar yang memungkinkan Anda menambahkan konten ke sidebar dan area widget lainnya.
 
+## Video Tutorial
+
+Berikut adalah video tutorial untuk Widgets pada tema JurnalPress:
+
+<YouTubeEmbed video-id="i_UYZ5fdMMA" />
+
+Untuk detail tutorial teks bisa anda lihat dibawah.
+
 ## Menambahkan Widget
 
 1. Login ke dashboard WordPress.
