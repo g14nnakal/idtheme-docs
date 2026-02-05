@@ -186,6 +186,8 @@ export default defineConfig({
                 ]
           },
           { text: 'Pengaturan Menu', link: '/jurnalpress/menus' },
+          { text: 'Pengaturan User', link: '/jurnalpress/user' },
+          { text: 'Pengaturan Kategori', link: '/jurnalpress/category' },
           { text: 'Setting AMP', link: '/jurnalpress/amp' },
           { text: 'Cara Posting', link: '/jurnalpress/posting' },
           { text: 'OpenGraph', link: '/guide/opengraph' },

@@ -8,6 +8,14 @@ outline: deep
 
 Panduan ini menjelaskan cara membuat dan mengatur menu navigasi di website Anda, termasuk fitur-fitur khusus yang disediakan oleh theme.
 
+## Video Tutorial
+
+Berikut adalah video tutorial untuk Pengaturan Menu tema JurnalPress:
+
+<YouTubeEmbed video-id="WivGm7dymEM" />
+
+Untuk detail tutorial teks bisa anda lihat dibawah.
+
 ## Membuat Menu Baru
 
 1. Masuk ke **Appearance > Menus**.
