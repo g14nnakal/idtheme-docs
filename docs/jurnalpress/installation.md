@@ -27,6 +27,10 @@ Sebelum anda melangkah install jurnalpress, sebaiknya anda lihat video berikut s
 - Masukkan license key yang didapat dari member area kentooz pada menu license: https://member.kentooz.com/softsale/license.
 - Simpan agar lisensi aktif untuk update dan dukungan.
 
+::: info
+License issue & troubleshooting bisa dilihat di [sini](/guide/license-issue).
+:::
+
 ## Import Demo Data
 
 - Masuk ke Menu **Jurnalpress -> Dashboard**.

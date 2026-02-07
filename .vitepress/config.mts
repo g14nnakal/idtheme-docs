@@ -60,7 +60,8 @@ export default defineConfig({
         items: [
           { text: 'OpenGraph', link: '/guide/opengraph' },
           { text: 'Optimasi Kecepatan', link: '/guide/optimasi-kecepatan' },
-          { text: 'Update Manual Theme', link: '/guide/update-manual-theme' }
+          { text: 'Update Manual Theme', link: '/guide/update-manual-theme' },
+          { text: 'Lisensi Issue & Troubleshooting', link: '/guide/license-issue' },
         ]
       }
 
@@ -192,6 +193,7 @@ export default defineConfig({
           { text: 'Cara Posting', link: '/jurnalpress/posting' },
           { text: 'OpenGraph', link: '/guide/opengraph' },
           { text: 'Optimasi Kecepatan', link: '/guide/optimasi-kecepatan' },
+          { text: 'Lisensi Issue & Troubleshooting', link: '/guide/license-issue' },
         ]
       }
 
