@@ -36,7 +36,7 @@ features:
       icon: { light: 'fluent-color:book-open-lightbulb-20', dark: 'fluent-color:book-open-lightbulb-20', color: { light: '#000000', dark: '#FFFFFF' } },
       name: `Dokumentasi Theme Lama`,
       desc: 'Untuk dokumentasi theme lama, silakan kunjungi halaman ini.',
-      link: 'https://www.idtheme.com/docs/',
+      link: '/old-docs/',
       linkText: 'Lihat Dokumentasi',
       style: '--idt-Links-bg: #ff52e51e;'
     },
@@ -44,7 +44,7 @@ features:
       icon: { light: 'fluent-color:toolbox-32', dark: 'fluent-color:toolbox-32', color: { light: '#000000', dark: '#FFFFFF' } },
       name: `Cara Beli Theme`,
       desc: 'Pembelian theme sangat mudah dan cepat. Silakan ikuti langkah-langkah di dokumentasi ini.',
-      link: 'https://www.idtheme.com/docs/cara-melakukan-pembelian-theme-di-kentooz-atau-idtheme/',
+      link: '/keanggotaan/pembelian-theme',
       linkText: 'Lihat Dokumentasi',
       style: '--idt-Links-bg: #30ff4c10;'
     },
