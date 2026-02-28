@@ -41,6 +41,12 @@ Mengaktifkan fitur slider untuk mengubah ukuran font konten di halaman single po
 - **Default:** Aktif
 - **Tipe:** Toggle
 
+### Floating Video
+Mengaktifkan fitur floating thumbnail video yang akan muncul di pojok kanan bawah halaman single post.
+
+- **Default:** Aktif
+- **Tipe:** Toggle
+
 ### Title Element
 Section informasi yang menandai pengaturan elemen judul post, seperti struktur dan posisi elemen terkait judul.
 

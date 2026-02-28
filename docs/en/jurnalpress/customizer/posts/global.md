@@ -41,6 +41,12 @@ Enable a slider to adjust content font size on single post pages (typically on t
 - **Default:** Enabled
 - **Type:** Toggle
 
+### Floating Video
+Enable a floating thumbnail video that appears in the bottom right corner of single post pages.
+
+- **Default:** Enabled
+- **Type:** Toggle
+
 ### Title Element
 Informational section indicating title element settings, such as structure and positions related to the title.
 
