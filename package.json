@@ -2,11 +2,11 @@
   "devDependencies": {
     "@iconify/vue": "^5.0.0",
     "@miletorix/vitepress-youtube-embed": "^1.0.3",
-    "eslint": "^9.39.2",
-    "eslint-plugin-vue": "^10.7.0",
+    "eslint": "^10.8.0",
+    "eslint-plugin-vue": "^10.10.0",
     "globals": "^17.2.0",
     "prettier": "3.8.1",
-    "typescript-eslint": "^8.54.0",
+    "typescript-eslint": "^8.65.0",
     "vitepress": "^2.0.0-alpha.15"
   },
   "scripts": {
